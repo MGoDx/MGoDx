@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus Silva</h1>
+<h1 align="left">Hi 👋, I'm Matheus Silva</h1>
+<h3 align="left">A passionate Data Enthusiast from Brazil</h3>
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
