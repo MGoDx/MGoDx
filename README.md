@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Matheus Silva</h1>
 <h3 align="left">A passionate Data Enthusiast from Brazil</h3>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
-
 - 📫 How to reach me **matheusilva1010@gmail.com**
 
 <h2 align="left">Languages and Tools:</h3>
